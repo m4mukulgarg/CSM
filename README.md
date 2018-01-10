@@ -11,11 +11,6 @@ Smart India Hackathon 2017 Grand Finale
 
 ## Team: **DrishtiC0n**
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 | Backend | Design  | Research  |
 | ------- | ------- | --------- |
 | [Mukul Garg](https://m4mukulgarg.github.io/about-me/) | Samridhi Jain | Ankush Garg |
