@@ -86,7 +86,7 @@ Finally, both the frontend and backend will be linked together.
 Microsoft ASP.NET and C#
 
 ## Architecture Block Schematic
-![Block Diagram](static\csm-architechture.png)
+![Block Diagram](static/csm-architechture.png)
 
 ## References
 ### Literature available on the government websites:
