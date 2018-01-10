@@ -10,9 +10,10 @@ _at_
 Smart India Hackathon 2017 Grand Finale
 
 ## Team: **DrishtiC0n**
-|Backend|Design|Research|
-|---|---|---|
-| [Mukul Garg](https://m4mukulgarg.github.io/about-me/) |Samridhi Jain | Ankush Garg |
+
+| Backend | Design  | Research  |
+| ------- | ------- | --------- |
+| [Mukul Garg](https://m4mukulgarg.github.io/about-me/) | Samridhi Jain | Ankush Garg |
 | Sajal Garg  | Saurav Panwar  | Sarthak Sharma |
 
 ## Aim:
