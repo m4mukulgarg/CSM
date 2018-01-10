@@ -1,0 +1,4 @@
+c:\users\mrgar\documents\visual studio 2010\Projects\testkpi\testkpi\bin\testkpi.dll
+c:\users\mrgar\documents\visual studio 2010\Projects\testkpi\testkpi\bin\testkpi.pdb
+c:\users\mrgar\documents\visual studio 2010\Projects\testkpi\testkpi\obj\Debug\testkpi.dll
+c:\users\mrgar\documents\visual studio 2010\Projects\testkpi\testkpi\obj\Debug\testkpi.pdb
