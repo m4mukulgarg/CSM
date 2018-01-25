@@ -1,13 +1,12 @@
+*__Nominated for Power-Judging round__*
 
-                    *__Nominated for Power-Judging round__*
+_under_
 
-                                  _under_
+Ministry of Food Processing Industries
 
-                      Ministry of Food Processing Industries
+_at_
 
-                                    _at_
-
-                     Smart India Hackathon 2017 Grand Finale
+Smart India Hackathon 2017 Grand Finale
 
 ## Team: **DrishtiC0n**
 
