@@ -1,13 +1,13 @@
-# Cold Storage Monitoring
-*__Nominated for Power-Judging round__*
 
-_under_
+                    *__Nominated for Power-Judging round__*
 
-Ministry of Food Processing Industries
+                                  _under_
 
-_at_
+                      Ministry of Food Processing Industries
 
-Smart India Hackathon 2017 Grand Finale
+                                    _at_
+
+                     Smart India Hackathon 2017 Grand Finale
 
 ## Team: **DrishtiC0n**
 
